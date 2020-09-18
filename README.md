@@ -1,7 +1,10 @@
 # ONT Genomics
 Oxford nanopore project for working with WGS of fungi
 
-Links to useful tools:
+## Aim of project
+Investigating the feasibility and quality of genome assemblies and taxonomic classification using Nanopore sequencing.
+
+##Links to useful tools:
 
 ## Genome assembly, QC and QA
 
