@@ -1,2 +1,2 @@
-# ONTgenomics
+# ONT Genomics
 Oxford nanopore project for working with WGS of fungi
